@@ -1,0 +1,12 @@
+# archivos que comienzan con '.', con excepciones: 
+.* 
+.gitignore 
+# archivos compilados de python
+*.py[co] 
+# archivos de backup de emacs
+*~ 
+# subdirectorios sin seguimiento
+/env/ 
+/src/ 
+/filestore/ 
+/logs/
